@@ -24,4 +24,4 @@ If you use this code, send me a pizza at mail02ankit@gmail.com
 
 ## Contributors
 [Ankit Kumar](https://mail02ankit.github.io/)
-[Anshu Gupta] (https://anshu02gupta.github.io/)
+[Anshu Gupta](https://anshu02gupta.github.io/)
