@@ -20,6 +20,8 @@ analyze other trends based on the features of videos-uploads for a Youtube chann
 ## Plots
 ![](SSR_coverage.jpg )
 ![](economy_coverage.jpg )
+
+## Additional plots
 ![](china_coverage.jpg )
 ![](covid_coverage.jpg )
 
