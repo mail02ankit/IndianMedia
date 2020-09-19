@@ -15,11 +15,13 @@ trends with other news channels like ABP News, Zee News. NDTV channels seem to h
 to the news related to economy|GDP|jobs.
 
 Our code is open for criticism and verification. Please send us an email if you find a bug. You may use the code to
-analyze other trends based on the features of videos uploads for a Youtube channel. 
+analyze other trends based on the features of videos-uploads for a Youtube channel. 
 
 ## Plots
 ![](SSR_coverage.jpg )
 ![](economy_coverage.jpg )
+![](china_coverage.jpg )
+![](covid_coverage.jpg )
 
 ## Note
 I use bitbucket for the version control as It provides free private repositories. If you want to get full development-history for this code, please email me on mail02ankit@gmail.com.
