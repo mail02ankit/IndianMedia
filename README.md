@@ -9,7 +9,7 @@ different time intervals (weekly, bi-weekly, and monthly) gives us a reasonable 
 channel has given to a specific news topic.
 
 We have used our method to quantify the coverage on the Suicide of SSR. We found that Republic TV, Times Now, and Aaj
-Tak channels have spent as close as 70% of their time on this topic in time interval spanned from 01 May to 15 Sep 2020.
+Tak channels have spent as close as 70% of their time on this topic in time interval spanned from 01 May to 10 Sep 2020.
 In contrast, the time spent on topics like economy|GDP|jobs is comparatively less as low as 1-2%. We found similar
 trends with other news channels like ABP News, Zee News. NDTV channels seem to have given comparatively better coverage
 to the news related to economy|GDP|jobs.
